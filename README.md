@@ -1,4 +1,4 @@
-#redis-docker-compose
+redis-docker-compose
 -----
 usage:
 ```bash
