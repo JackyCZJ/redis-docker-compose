@@ -6,7 +6,6 @@
 # Created Time: 2019-09-19 12:24:52
 #########################################################################
 #!/bin/bash
-#!/usr/bin/env bash
 docker-compose up -d
 
 for i in 1 2 3 4 5 6; do
